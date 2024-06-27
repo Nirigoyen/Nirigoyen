@@ -68,8 +68,3 @@
   </a>
 </div>
 
-###
-
-<p align="left">Hello World!!</p>
-
-###
